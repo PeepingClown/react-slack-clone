@@ -1,0 +1,23 @@
+1. Wireframing
+2. Functionality
+   * Sign in
+   * Sign up
+   * Create a channel
+   * Send message in a channel
+   * Search for a channel
+
+3. Data
+   * users
+   * channels
+   * messages
+
+4. UI Components
+   * Sidebar
+     * ListOfChannels
+     * ListOfDirectMessages
+   * MainContainer
+     * Header
+     * message
+     * CreateMessage
+   * Sign in
+   * Sign up
